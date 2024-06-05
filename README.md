@@ -1,0 +1,2 @@
+# .github
+10 Minute School is the largest online educational platform in Bangladesh. Through our website, app and social media, more than 1.5 million students are accessing quality education each day to accelerate their learning.
